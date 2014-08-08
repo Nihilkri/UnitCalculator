@@ -35,17 +35,6 @@
 			// 
 			this.CatSel.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
 			this.CatSel.FormattingEnabled = true;
-			this.CatSel.Items.AddRange(new object[] {
-            "Distance",
-            "Area",
-            "Volume",
-            "Mass",
-            "Temperature",
-            "Time",
-            "Angular Measure",
-            "Velocity",
-            "Energy",
-            "Pressure"});
 			this.CatSel.Location = new System.Drawing.Point(12, 12);
 			this.CatSel.Name = "CatSel";
 			this.CatSel.Size = new System.Drawing.Size(136, 21);
